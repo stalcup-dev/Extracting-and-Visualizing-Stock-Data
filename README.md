@@ -23,7 +23,7 @@ Great analysts turn fuzzy questions into clear, decision-ready stories. This rep
 
 ---
 
-Key insights
+## Key insights
 
 Tesla (TSLA)
 
