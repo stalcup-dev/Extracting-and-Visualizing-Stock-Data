@@ -78,18 +78,7 @@ Edit
 
 ## Quickstart (local)
 ```bash
-# 1) clone
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
-
-# 2) (optional) create & activate a venv
-python -m venv .venv
-# Windows:
-.venv\Scripts\Activate.ps1
-# macOS/Linux:
-source .venv/bin/activate
-
-# 3) install & run
+ install & run
 pip install -r requirements.txt
 jupyter notebook WebScraping-Review-Lab-v2.ipynb
 Requirements (pinned in requirements.txt)
